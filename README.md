@@ -15,6 +15,7 @@ Choose File > New Schematic
 2. Add Components
 
 📌 You'll need:
+
 1 × PMOS transistor (pMOS)
 1 × NMOS transistor (nMOS)
 1 × Vdd (DC voltage source)
