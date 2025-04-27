@@ -17,21 +17,37 @@ Choose File > New Schematic
 📌 You'll need:
 
 1 × PMOS transistor (pMOS)
+
 1 × NMOS transistor (nMOS)
+
 1 × Vdd (DC voltage source)
+
 1 × Input voltage source (Vin)
+
 1 × Ground
+
 1 × Wire tool
+
 1 × Net name tool (optional for neat labeling)
+
 📌 How to:
+
 Press F2 or click the component symbol (AND gate icon)
+
 Search or scroll to find:
+
 nmos
+
 pmos
+
 Voltage
+
 📌 Build the Inverter Circuit
+
 Connections:
+
 PMOS:
+
 Source → Vdd
 Gate → Input (Vin)
 Drain → Output node
