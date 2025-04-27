@@ -1,6 +1,9 @@
-CMOS INVERTER
+#CMOS INVERTER
+
 Designing CMOS INVERTER 
-Tool : LTspice
+
+##Tool : LTspice
+
 🛠️ Step-by-Step: Designing CMOS Inverter in LTspice
 1. Launch LTspice
 Open LTspice
