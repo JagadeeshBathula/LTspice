@@ -125,7 +125,7 @@ Verify the output by tallying the truth table
 
 Truth Table
 
-Input (A) <br>      Output(Y = NOT A)
+Input (A)     Output(Y = NOT A)
 
    0                    1
    1                  	0
