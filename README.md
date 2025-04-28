@@ -1,7 +1,8 @@
 # CMOS INVERTER
 This repository contains the design, simulation, and analysis of a CMOS Inverter — a fundamental building block in digital electronics. It demonstrates how complementary MOSFETs (PMOS and NMOS) work together to implement digital logic.
 
-📌 Project Overview
+## 📌 Project Overview
+
 A CMOS Inverter uses a PMOS transistor connected to VDD and an NMOS transistor connected to GND. When the input is high, the NMOS conducts and pulls the output low; when the input is low, the PMOS conducts and pulls the output high. This configuration offers:
 
 * Low static power consumption
@@ -10,11 +11,11 @@ A CMOS Inverter uses a PMOS transistor connected to VDD and an NMOS transistor c
 
 * Full rail-to-rail output voltage swing
 
-Designing CMOS INVERTER 
+## Designing CMOS INVERTER 
 
 ## Tool : LTspice
 
-🛠️ Step-by-Step: Designing CMOS Inverter in LTspice
+## 🛠️ Step-by-Step: Designing CMOS Inverter in LTspice
 
 1. Launch LTspice
 
@@ -24,7 +25,7 @@ Choose File > New Schematic
 
 2. Add Components
 
-📌 You'll need:
+## 📌 You'll need:
 
 1 × PMOS transistor (pMOS)
 
@@ -40,7 +41,7 @@ Choose File > New Schematic
 
 1 × Net name tool (optional for neat labeling)
 
-📌 How to:
+## 📌 How to:
 
 Press F2 or click the component symbol (AND gate icon)
 
@@ -52,7 +53,7 @@ pmos
 
 Voltage
 
-📌 Build the Inverter Circuit
+## 📌 Build the Inverter Circuit
 
 Connections:
 
@@ -76,7 +77,7 @@ Connect Vdd (e.g., 5V) between a voltage source and GND
 
 Connect Vin using a PULSE input for transient or DC sweep for DC analysis
 
-📌 Set Input Voltage Source
+## 📌 Set Input Voltage Source
 
 For transient simulation, use:
 
@@ -96,7 +97,7 @@ V1 IN 0 PULSE(0 2 2 0.001 0.001 2 4)
 
 4 → total period
 
-📌 Run Simulations
+## 📌 Run Simulations
 
 🧪 DC Sweep:
 
@@ -110,7 +111,7 @@ spice
 
 Plot output voltage vs input
 
-⚡ Transient:
+## ⚡ Transient:
 
 Click .tran → Enter:
 
@@ -119,6 +120,16 @@ spice
 .tran8
 
 Run the sim, then plot output (V(out)) and input (V(in))
+
+Verify the output by tallying the truth table
+
+Truth Table
+
+Input (A)   	Output (Y = NOT A)
+
+   0                	1
+   
+   1                	0
 
 # 🤝 Contributing
 Contributions are welcome! Please open an issue or submit a pull request if you’d like to improve this project — whether it’s optimizing the layout, improving simulation scripts, or adding testbenches.
