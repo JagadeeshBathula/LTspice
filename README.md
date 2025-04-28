@@ -125,11 +125,11 @@ Verify the output by tallying the truth table
 
 Truth Table
 
-Input (A)   	Output (Y = NOT A)
+Input (A)   	       Output (Y = NOT A)
 
-   0                	1
+   0                    	1
    
-   1                	0
+   1                    	0
 
 # 🤝 Contributing
 Contributions are welcome! Please open an issue or submit a pull request if you’d like to improve this project — whether it’s optimizing the layout, improving simulation scripts, or adding testbenches.
