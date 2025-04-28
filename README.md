@@ -11,6 +11,13 @@ A CMOS Inverter uses a PMOS transistor connected to VDD and an NMOS transistor c
 
 * Full rail-to-rail output voltage swing
 
+## truth table
+
+| Input (A)  |   Output(Y = NOT A)  |
+|------------|----------------------|
+|   0        |          1           |
+|   1        |         	0           |
+
 ## Designing CMOS INVERTER 
 
 ## Tool : LTspice
@@ -123,14 +130,14 @@ Run the sim, then plot output (V(out)) and input (V(in))
 
 Verify the output by tallying the truth table
 
-# Truth Table
-
-| Input (A)  |   Output(Y = NOT A)  |
-|------------|----------------------|
-|   0        |          1           |
-|   1        |         	0           |
 # 🤝 Contributing
 Contributions are welcome! Please open an issue or submit a pull request if you’d like to improve this project — whether it’s optimizing the layout, improving simulation scripts, or adding testbenches.
 
 # 📄 License
 This project is licensed under the MIT License.
+
+## contact me
+
+LinkedIn : http://www.linkedin.com/in/jagadeesh-bathula-246aba300
+
+Mail : jagadeeshbattula0@gmail.com 
