@@ -123,7 +123,7 @@ Run the sim, then plot output (V(out)) and input (V(in))
 
 Verify the output by tallying the truth table
 
-Truth Table
+# Truth Table
 
 | Input (A)  |   Output(Y = NOT A)  |
 |------------|----------------------|
