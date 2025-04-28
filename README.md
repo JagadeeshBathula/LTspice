@@ -1,4 +1,14 @@
 # CMOS INVERTER
+This repository contains the design, simulation, and analysis of a CMOS Inverter — a fundamental building block in digital electronics. It demonstrates how complementary MOSFETs (PMOS and NMOS) work together to implement digital logic.
+
+📌 Project Overview
+A CMOS Inverter uses a PMOS transistor connected to VDD and an NMOS transistor connected to GND. When the input is high, the NMOS conducts and pulls the output low; when the input is low, the PMOS conducts and pulls the output high. This configuration offers:
+
+* Low static power consumption
+
+* High noise margins
+
+* Full rail-to-rail output voltage swing
 
 Designing CMOS INVERTER 
 
@@ -109,3 +119,9 @@ spice
 .tran8
 
 Run the sim, then plot output (V(out)) and input (V(in))
+
+# 🤝 Contributing
+Contributions are welcome! Please open an issue or submit a pull request if you’d like to improve this project — whether it’s optimizing the layout, improving simulation scripts, or adding testbenches.
+
+# 📄 License
+This project is licensed under the MIT License.
