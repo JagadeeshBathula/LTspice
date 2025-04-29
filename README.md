@@ -46,10 +46,6 @@ Choose File > New Schematic
 
 1 × Ground
 
-1 × Wire tool
-
-1 × Net name tool (optional for neat labeling)
-
 ## 📌 How to:
 
 Press F2 or click the component symbol (AND gate icon)
