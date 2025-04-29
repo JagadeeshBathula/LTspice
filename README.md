@@ -11,7 +11,11 @@ A CMOS Inverter uses a PMOS transistor connected to VDD and an NMOS transistor c
 
 * Full rail-to-rail output voltage swing
 
-##  CIRCUIT DIAGRAM
+##  Circuit Design 
+
+![Image](https://github.com/user-attachments/assets/f90a65b1-42f2-43e9-8671-9ceeb4f146e0)
+
+## Schematic
 
 ![Image](https://github.com/user-attachments/assets/5341e87f-9a29-4c75-bce1-f040aeb6028b)
 
