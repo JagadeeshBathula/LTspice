@@ -26,9 +26,10 @@ A CMOS Inverter uses a PMOS transistor connected to VDD and an NMOS transistor c
 |   0        |          1           |
 |   1        |         	0           |
 
- Tool : LTspice
+ 
+## 🛠️ Step-by-Step: Designing CMOS Inverter 
 
-## 🛠️ Step-by-Step: Designing CMOS Inverter in LTspice
+## Tool : LTspice
 
 1. Launch LTspice
 
