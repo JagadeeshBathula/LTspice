@@ -54,27 +54,32 @@ Connect the 2 NMOS transistors series to the PMOS then connect to the ground
 
 Take the output fron the center of the transistor(between pull up & pull down network)
 
-🧪 3. Add Stimulus
+### 🧪 3. Add Stimulus
+
 Use PULSE voltage sources for A and B to simulate logic levels.
 Example:
 
 scss
 Copy
 Edit
-V1 N001 0 PULSE(0 5 0 1n 1n 10n 20n)
-V2 N002 0 PULSE(0 5 10n 1n 1n 10n 20n)
+V1 N001 0 PULSE(0 2 4 0.001 0.001 4 8)
+
+V2 N002 0 PULSE(0 2 2 0.001 0.001 2 4)
+
 These generate combinations of A and B = 00, 01, 10, 11.
 
-🖥️ 4. Run the Simulation
+### 🖥️ 4. Run the Simulation
+
 Go to Simulate > Edit Simulation Cmd
 
 Choose Transient analysis, e.g., Stop Time = 100n
 
-Place the .tran 0 100n command on the schematic
+Place the .tran 8 command on the schematic
 
 Run the simulation and plot the output.
 
-📈 5. View Results
+### 📈 5. View Results
+
 Click the wire for output and the inputs to see the logic behavior.
 
 You should see output is high only when both inputs are high.
