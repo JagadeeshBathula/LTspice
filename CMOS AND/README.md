@@ -16,27 +16,68 @@ Design and simulate a two-input AND gate using transistors in LTspice. The gate 
 
 ![Image](https://github.com/user-attachments/assets/28d3747f-3102-4827-92a5-6efd5dc8e7b3)
 
+### ⚙️ CMOS AND Gate Design in LTspice
 
+🧱 1. Understand the CMOS AND Gate Logic
 
-### Implementation
+A 2-input AND gate can be built using a combination of N-MOSFETs and P-MOSFETs:
 
-- Built using **CMOS logic** (PMOS and NMOS transistors)
-- Input voltages toggled via pulse sources or voltage steps
-- Output verified using transient analysis
+Output is high only when both inputs are high
 
-### Key Parameters
+You can use DeMorgan’s theorem:
 
-- VDD: 5V
-- Logic High: 5V
-- Logic Low: 0V
-- Pulse width and delay configured for logic transitions
+A AND B = NOT (NOT A OR NOT B)
 
-## ✅ How to Use
+So, an AND gate = Invert the output of an OR gate with inverted inputs.
 
-1. Clone the repository or download the `.asc` file.
-2. Open `AND_Gate.asc` in LTspice.
-3. Run a transient simulation (`Simulate > Run`) to view the waveform.
-4. Observe the output waveform and compare it with expected logic behavior.
+### 🔧 2. Set Up the Circuit in LTspice
+
+a. Open LTspice and create a new schematic.
+
+b. Add components:
+
+2 × nmos transistors
+
+2 × pmos transistors
+
+2 × voltage sources for inputs A and B
+
+1 × Vdd (e.g., 5V supply)
+
+1 × ground
+
+### c. Build the Circuit:
+
+Connect the 2 pomos parallel and short the source to the vdd supply
+
+Connect the 2 NMOS transistors series to the PMOS then connect to the ground
+
+Take the output fron the center of the transistor(between pull up & pull down network)
+
+🧪 3. Add Stimulus
+Use PULSE voltage sources for A and B to simulate logic levels.
+Example:
+
+scss
+Copy
+Edit
+V1 N001 0 PULSE(0 5 0 1n 1n 10n 20n)
+V2 N002 0 PULSE(0 5 10n 1n 1n 10n 20n)
+These generate combinations of A and B = 00, 01, 10, 11.
+
+🖥️ 4. Run the Simulation
+Go to Simulate > Edit Simulation Cmd
+
+Choose Transient analysis, e.g., Stop Time = 100n
+
+Place the .tran 0 100n command on the schematic
+
+Run the simulation and plot the output.
+
+📈 5. View Results
+Click the wire for output and the inputs to see the logic behavior.
+
+You should see output is high only when both inputs are high.
 
    ### Truth table
 
