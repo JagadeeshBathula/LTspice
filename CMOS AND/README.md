@@ -12,7 +12,9 @@ This repository contains the schematic, simulation, and analysis of a basic AND 
 
 Design and simulate a two-input AND gate using transistors in LTspice. The gate should follow the truth table:
 
+### Circuit Diagram
 
+![Image](https://github.com/user-attachments/assets/28d3747f-3102-4827-92a5-6efd5dc8e7b3)
 
 
 
