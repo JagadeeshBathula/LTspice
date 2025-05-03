@@ -1,9 +1,6 @@
-# AND Gate Design using LTspice
+# AND Gate 
 
 This repository contains the schematic, simulation, and analysis of a basic AND logic gate implemented using LTspice. The AND gate is designed using transistor-level components to demonstrate how digital logic can be realized through analog simulation tools.
-
-## 📁 Repository Structure
-
 
 ## 🛠️ Tools Required
 
