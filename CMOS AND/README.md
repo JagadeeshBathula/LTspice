@@ -47,10 +47,6 @@ Design and simulate a two-input AND gate using transistors in LTspice. The gate 
 | 1 | 0 |   0    |
 | 1 | 1 |   1    |
 
-## 🖼️ Example Output
-
-![AND Gate Waveform](screenshots/and_gate_waveform.png)
-
 ## 📚 References
 
 - [CMOS Logic Gate Design Basics](https://en.wikipedia.org/wiki/CMOS)
@@ -59,6 +55,8 @@ Design and simulate a two-input AND gate using transistors in LTspice. The gate 
 ## 🔖 License
 
 This project is licensed under the MIT License. See `LICENSE` file for details.
+
+
 
 
 
