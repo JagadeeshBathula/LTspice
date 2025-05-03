@@ -72,7 +72,7 @@ These generate combinations of A and B = 00, 01, 10, 11.
 
 Go to Simulate > Edit Simulation Cmd
 
-Choose Transient analysis, e.g., Stop Time = 100n
+Choose Transient analysis, e.g., Stop Time = 8
 
 Place the .tran 8 command on the schematic
 
