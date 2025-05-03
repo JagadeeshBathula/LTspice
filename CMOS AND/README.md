@@ -56,6 +56,12 @@ Design and simulate a two-input AND gate using transistors in LTspice. The gate 
 
 This project is licensed under the MIT License. See `LICENSE` file for details.
 
+### Contact me 
+
+LinkedIn : http://www.linkedin.com/in/jagadeesh-bathula-246aba300
+
+Mail : jagadeeshbattula0@gmail.com 
+
 
 
 
