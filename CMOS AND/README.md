@@ -12,12 +12,9 @@ This repository contains the schematic, simulation, and analysis of a basic AND 
 
 Design and simulate a two-input AND gate using transistors in LTspice. The gate should follow the truth table:
 
-| A | B | Output |
-|---|---|--------|
-| 0 | 0 |   0    |
-| 0 | 1 |   0    |
-| 1 | 0 |   0    |
-| 1 | 1 |   1    |
+
+
+
 
 ### Implementation
 
@@ -38,6 +35,15 @@ Design and simulate a two-input AND gate using transistors in LTspice. The gate 
 2. Open `AND_Gate.asc` in LTspice.
 3. Run a transient simulation (`Simulate > Run`) to view the waveform.
 4. Observe the output waveform and compare it with expected logic behavior.
+
+   ### Truth table
+
+| A | B | Output |
+|---|---|--------|
+| 0 | 0 |   0    |
+| 0 | 1 |   0    |
+| 1 | 0 |   0    |
+| 1 | 1 |   1    |
 
 ## 🖼️ Example Output
 
