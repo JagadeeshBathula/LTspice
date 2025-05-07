@@ -1,0 +1,11 @@
+LTspice 24.0.12 for Windows
+Circuit: * C:\Users\jagad\OneDrive\Documents\LTspice\CMOS NAND.asc
+Start Time: Tue Apr 15 17:27:15 2025
+solver = Normal
+Maximum thread count: 22
+tnom = 27
+temp = 27
+method = modified trap
+Direct Newton iteration for .op point succeeded.
+Total elapsed time: 0.275 seconds.
+
