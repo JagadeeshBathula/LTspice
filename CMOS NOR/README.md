@@ -3,9 +3,13 @@
 CMOS NOR (Complementary Metal-Oxide-Semiconductor NOR) is a digital logic gate implemented using CMOS technology that performs the NOR (NOT OR) operation. 
 A NOR gate logic gate that outputs true (1) only when all inputs are false (0). It is the combination of an OR gate followed by a NOT gate.
 
-## circuit 
+## CIRCUIT
 
 ![Image](https://github.com/user-attachments/assets/ba37fe25-7851-4e44-9ea7-e5625601cc1f)
+
+## SCHEMATIC
+
+![Image](https://github.com/user-attachments/assets/49866b93-0029-44bf-aea1-1f9e39c02737)
 
 ## 🧪 Step-by-Step Design: CMOS NOR Gate in LTspice
 
