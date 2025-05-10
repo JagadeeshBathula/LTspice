@@ -53,3 +53,23 @@ Search or scroll to find:
 nmos
 
 pmos
+
+Voltage
+
+## 📌 Build the Inverter Circuit
+
+Connections:
+
+PMOS:
+
+Source → Vdd
+
+Gate → Input (Vin)
+
+Drain → Output node
+
+NMOS:
+
+Source → GND
+
+Gate → Input (Vin)
