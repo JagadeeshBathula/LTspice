@@ -5,9 +5,13 @@ A CMOS OR gate is a digital logic gate built using Complementary Metal-Oxide-Sem
 
 Instead, an OR gate in CMOS is typically constructed using a NOR gate followed by an inverter
 
-## circuit 
+## Circuit 
 
 ![Image](https://github.com/user-attachments/assets/8f56d3d7-5f5d-4eb9-9537-8659f55026ef)
+
+## Schematic Diagram 
+
+![Image](https://github.com/user-attachments/assets/9ed0b037-3c4e-4f55-b9fc-4c4912983808)
 
 ## CMOS OR Gate Design in LTspice
 
