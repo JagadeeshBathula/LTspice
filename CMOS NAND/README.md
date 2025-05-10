@@ -99,6 +99,10 @@ Probe signals on A, B, and the Output to observe logic levels.
 | 1	| 0	|   1    |
 | 1 |	1 | 	0    |
 
+## OUTPUT WAVEFORM
+
+![Image](https://github.com/user-attachments/assets/b416e283-587c-448d-9a6c-6ce9b02bdbc4)
+
 📁 Project Files
 nand.asc — LTspice schematic
 
