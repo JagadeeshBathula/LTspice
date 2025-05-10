@@ -104,9 +104,15 @@ LinkedIn : http://www.linkedin.com/in/jagadeesh-bathula-246aba300
 
 Mail : jagadeeshbattula0@gmail.com 
 
-## LICENSE 
+## 📚 References
 
-THis project is verified under MIT LICENSE
+- [CMOS Logic Gate Design Basics](https://en.wikipedia.org/wiki/CMOS)
+- [LTspice User Guide](https://www.analog.com/media/en/simulation-models/spice-models/LTspiceGettingStartedGuide.pdf)
+
+## 🔖 License
+
+This project is licensed under the MIT License. See ` MIT LICENSE` file for details.
+
 
 ✅ Conclusion
 This project demonstrates how to build and verify a basic CMOS NAND gate in LTspice using fundamental CMOS principles. It serves as a foundational example for understanding digital logic gates in analog simulation tools.
