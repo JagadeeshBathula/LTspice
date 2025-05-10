@@ -5,6 +5,10 @@ A CMOS OR gate is a digital logic gate built using Complementary Metal-Oxide-Sem
 
 Instead, an OR gate in CMOS is typically constructed using a NOR gate followed by an inverter
 
+## circuit 
+
+![Image](https://github.com/user-attachments/assets/8f56d3d7-5f5d-4eb9-9537-8659f55026ef)
+
 ## CMOS OR Gate Design in LTspice
 
 This project demonstrates how to design a 2-input CMOS OR gate using LTspice. The OR gate is built using a NOR gate followed by an inverter, based on De Morgan's law. We will also simulate the gate to verify its functionality with different input combinations.
@@ -76,7 +80,7 @@ The output of this stage will give the NOR logic:
 (A + B)`
 
 4. Add the Inverter
-5. 
+   
 PMOS Transistor (for Inverter):
 
 Connect the source of the PMOS to VDD.
