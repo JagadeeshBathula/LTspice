@@ -157,9 +157,10 @@ LinkedIn : http://www.linkedin.com/in/jagadeesh-bathula-246aba300
 
 Mail : jagadeeshbattula0@gmail.com
 
-LICENSE 
+## 🔖 License
 
-This project is verified under MIT LICENSE 
+This project is licensed under the MIT License. See `MIT LICENSE` file for details.
+
 
 ✅ Conclusion
 This project shows the design of a CMOS OR gate using a NOR gate followed by an inverter. It demonstrates how to implement basic digital logic gates in CMOS technology, a widely used method in integrated circuit design.
