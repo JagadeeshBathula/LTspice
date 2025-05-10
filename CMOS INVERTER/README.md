@@ -98,6 +98,8 @@ V1 IN 0 PULSE(0 2 2 0.001 0.001 2 4)
 
 0 → low voltage
 
+2 → High voltage
+
 2 → delay
 
 0.001 → rise/fall time
@@ -110,15 +112,7 @@ V1 IN 0 PULSE(0 2 2 0.001 0.001 2 4)
 
 🧪 DC Sweep:
 
-Click .op → Enter:
-
-.dc V1 0 5 0.01
-
-(If V1 is your input voltage source)
-
-Plot output voltage vs input
-
-## ⚡ Transient:
+ Transient:
 
 Click .tran → Enter:
 
@@ -128,7 +122,7 @@ Run the sim, then plot output (V(out)) and input (V(in))
 
 Verify the output by tallying the truth table
 
-## truth table-----------|
+## truth table
 
 | Input (A)  |   Output(Y = NOT A)  |
 |------------|----------------------|
