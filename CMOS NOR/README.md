@@ -136,3 +136,7 @@ Click the Run (Man Running) icon
 |    0    | 	1     |     		0           |
 |    1    |  	0  	  |       	0           |
 |    1    |  	1     |     		0           |
+
+## OUTPUT WAVEFORM
+
+![Image](https://github.com/user-attachments/assets/fb53e2e9-4319-4188-bb66-12cbb2269d2d)
