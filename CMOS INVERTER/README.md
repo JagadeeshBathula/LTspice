@@ -97,3 +97,57 @@ spice
 V1 IN 0 PULSE(0 2 2 0.001 0.001 2 4)
 
 0 → low voltage
+
+2 → delay
+
+0.001 → rise/fall time
+
+2 → on time
+
+4 → total period
+
+## 📌 Run Simulations
+
+🧪 DC Sweep:
+
+Click .op → Enter:
+
+.dc V1 0 5 0.01
+
+(If V1 is your input voltage source)
+
+Plot output voltage vs input
+
+## ⚡ Transient:
+
+Click .tran → Enter:
+
+.tran 8
+
+Run the sim, then plot output (V(out)) and input (V(in))
+
+Verify the output by tallying the truth table
+
+## truth table-----------|
+
+| Input (A)  |   Output(Y = NOT A)  |
+|------------|----------------------|
+|   0        |          1           |
+|   1        |         	0           |
+
+
+## Output Waveform
+
+![Image](https://github.com/user-attachments/assets/74067b88-ee44-4d7d-b203-3c764ca6dcce)
+
+# 🤝 Contributing
+Contributions are welcome! Please open an issue or submit a pull request if you’d like to improve this project — whether it’s optimizing the layout, improving simulation scripts, or adding testbenches.
+
+# 📄 License
+This project is licensed under the MIT License.
+
+## contact me
+
+LinkedIn : http://www.linkedin.com/in/jagadeesh-bathula-246aba300
+
+Mail : jagadeeshbattula0@gmail.com
