@@ -73,3 +73,27 @@ NMOS:
 Source → GND
 
 Gate → Input (Vin)
+
+Drain → Output node
+
+NMOS:
+
+Source → GND
+
+Gate → Input (Vin)
+
+Drain → Output node (shared with PMOS drain)
+
+Connect Vdd (e.g., 5V) between a voltage source and GND
+
+Connect Vin using a PULSE input for transient or DC sweep for DC analysis
+
+## 📌 Set Input Voltage Source
+
+For transient simulation, use:
+
+spice
+
+V1 IN 0 PULSE(0 2 2 0.001 0.001 2 4)
+
+0 → low voltage
