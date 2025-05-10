@@ -144,3 +144,23 @@ Click the Run (Man Running) icon
 ## OUTPUT WAVEFORM
 
 ![Image](https://github.com/user-attachments/assets/fb53e2e9-4319-4188-bb66-12cbb2269d2d)
+
+CONTACT ME :
+
+LinkedIn : http://www.linkedin.com/in/jagadeesh-bathula-246aba300
+
+Mail : jagadeeshbattula0@gmail.com 
+
+## 📚 References
+
+- [CMOS Logic Gate Design Basics](https://en.wikipedia.org/wiki/CMOS)
+- [LTspice User Guide](https://www.analog.com/media/en/simulation-models/spice-models/LTspiceGettingStartedGuide.pdf)
+
+## 🔖 License
+
+This project is licensed under the MIT License. See ` MIT LICENSE` file for details.
+
+
+✅ Conclusion
+This project demonstrates how to build and verify a basic CMOS NOR gate in LTspice using fundamental CMOS principles. It serves as a foundational example for understanding digital logic gates in analog simulation tools.
+
