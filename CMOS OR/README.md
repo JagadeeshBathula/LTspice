@@ -157,6 +157,11 @@ LinkedIn : http://www.linkedin.com/in/jagadeesh-bathula-246aba300
 
 Mail : jagadeeshbattula0@gmail.com
 
+## 📚 References
+
+- [CMOS Logic Gate Design Basics](https://en.wikipedia.org/wiki/CMOS)
+- [LTspice User Guide](https://www.analog.com/media/en/simulation-models/spice-models/LTspiceGettingStartedGuide.pdf)
+
 ## 🔖 License
 
 This project is licensed under the MIT License. See `MIT LICENSE` file for details.
