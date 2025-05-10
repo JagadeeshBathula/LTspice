@@ -93,6 +93,10 @@ You should see output is high only when both inputs are high.
 | 1 | 0 |   0    |
 | 1 | 1 |   1    |
 
+## Output Waveform
+
+![Image](https://github.com/user-attachments/assets/01cd4595-199f-4118-bd79-f1625ed73e4f)
+
 ## 📚 References
 
 - [CMOS Logic Gate Design Basics](https://en.wikipedia.org/wiki/CMOS)
