@@ -16,6 +16,10 @@ Design and simulate a two-input AND gate using transistors in LTspice. The gate 
 
 ![Image](https://github.com/user-attachments/assets/28d3747f-3102-4827-92a5-6efd5dc8e7b3)
 
+## Schematic 
+
+![Image](https://github.com/user-attachments/assets/5cca3a0c-2f2f-4576-95bc-86472f7b8412)
+
 ### ⚙️ CMOS AND Gate Design in LTspice
 
 🧱 1. Understand the CMOS AND Gate Logic
