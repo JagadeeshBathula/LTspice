@@ -19,13 +19,6 @@ A CMOS Inverter uses a PMOS transistor connected to VDD and an NMOS transistor c
 
 ![Image](https://github.com/user-attachments/assets/5341e87f-9a29-4c75-bce1-f040aeb6028b)
 
-## truth table
-
-| Input (A)  |   Output(Y = NOT A)  |
-|------------|----------------------|
-|   0        |          1           |
-|   1        |         	0           |
-
  
 ## 🛠️ Step-by-Step: Designing CMOS Inverter 
 
@@ -132,6 +125,18 @@ spice
 Run the sim, then plot output (V(out)) and input (V(in))
 
 Verify the output by tallying the truth table
+
+## truth table
+
+| Input (A)  |   Output(Y = NOT A)  |
+|------------|----------------------|
+|   0        |          1           |
+|   1        |         	0           |
+
+
+## Output Waveform
+
+![Image](https://github.com/user-attachments/assets/74067b88-ee44-4d7d-b203-3c764ca6dcce)
 
 # 🤝 Contributing
 Contributions are welcome! Please open an issue or submit a pull request if you’d like to improve this project — whether it’s optimizing the layout, improving simulation scripts, or adding testbenches.
