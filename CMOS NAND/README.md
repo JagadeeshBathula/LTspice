@@ -2,7 +2,13 @@
 
 A CMOS NAND gate is a basic digital logic gate implemented using Complementary Metal-Oxide-Semiconductor (CMOS) technology. It performs the NAND (Not AND) logical operation, which outputs logic high (1) for all input combinations except when all inputs are high (1).
 
+## Circuit 
+
 ![Image](https://github.com/user-attachments/assets/63cea4aa-4ff6-4566-9df6-b03faffc6823)
+
+## Schematic
+
+![Image](https://github.com/user-attachments/assets/cab199f2-16f3-4aab-aea4-e77918fa1446)
 
 # CMOS NAND Gate Design in LTspice
 
