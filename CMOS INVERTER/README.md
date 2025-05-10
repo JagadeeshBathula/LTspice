@@ -134,6 +134,8 @@ Verify the output by tallying the truth table
 
 ![Image](https://github.com/user-attachments/assets/74067b88-ee44-4d7d-b203-3c764ca6dcce)
 
+Design file `inverter.asy` 
+
 # 🤝 Contributing
 Contributions are welcome! Please open an issue or submit a pull request if you’d like to improve this project — whether it’s optimizing the layout, improving simulation scripts, or adding testbenches.
 
