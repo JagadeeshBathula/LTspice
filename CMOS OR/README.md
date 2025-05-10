@@ -142,6 +142,10 @@ Use the probe tool to view the waveforms for inputs A, B, and the output.
 | 1 |	0	|     1       |
 | 1 |	1 |   	1       |
 
+## Out WAveform
+
+![Image](https://github.com/user-attachments/assets/a90d2af3-e7c4-4ca4-b2d7-a0027979b76c)
+
 📁 Project Files
 or_gate.asc — LTspice schematic for the CMOS OR gate.
 
