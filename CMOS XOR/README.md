@@ -14,6 +14,10 @@ A CMOS XOR (Exclusive OR) gate is a digital logic gate built using CMOS (Complem
 
 This guide explains how to design and simulate a CMOS XOR gate at the transistor level using LTspice.
 
+### CIRCUIT 
+
+![Image](https://github.com/user-attachments/assets/77ab6f63-d8c0-4c03-9017-0d0443a2ba93)
+
 🛠️ Prerequisites
 
 LTspice installed (e.g., LTspice XVII)
@@ -127,7 +131,8 @@ After simulation, click the output node to view the XOR waveform.
 | 1 |	1 |   	0      |
 
 📁 Project Files
-xor.asc — LTspice schematic
+
+`xor.asy` — LTspice schematic
 
 README.md — Project overview and instructions
 
