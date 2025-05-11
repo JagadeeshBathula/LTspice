@@ -50,7 +50,7 @@ Place at least 8 transistors for a standard CMOS XOR configuration (see below).
 
 Use the XOR logic equation:
 
-𝑌 = (A'.B + A.b')
+𝑌 = (A'.B + A.B')
 
 Use pull-up and pull-down networks with PMOS and NMOS transistors.
 
