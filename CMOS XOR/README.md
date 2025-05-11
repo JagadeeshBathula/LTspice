@@ -134,6 +134,10 @@ After simulation, click the output node to view the XOR waveform.
 | 1 |	0 |   	1      |
 | 1 |	1 |   	0      |
 
+### OUTPUT WAVEFORM
+
+![Image](https://github.com/user-attachments/assets/cdeeb93f-21bd-42ba-960c-61a809ec97e3)
+
 📁 Project Files
 
 `xor.asy` — LTspice schematic
