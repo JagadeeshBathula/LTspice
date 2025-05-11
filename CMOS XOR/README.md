@@ -126,3 +126,28 @@ After simulation, click the output node to view the XOR waveform.
 | 1 |	0 |   	1      |
 | 1 |	1 |   	0      |
 
+📁 Project Files
+xor.asc — LTspice schematic
+
+README.md — Project overview and instructions
+
+CONTACT ME :
+
+LinkedIn : http://www.linkedin.com/in/jagadeesh-bathula-246aba300
+
+Mail : jagadeeshbattula0@gmail.com 
+
+## 📚 References
+
+- [CMOS Logic Gate Design Basics](https://en.wikipedia.org/wiki/CMOS)
+- [LTspice User Guide](https://www.analog.com/media/en/simulation-models/spice-models/LTspiceGettingStartedGuide.pdf)
+
+## 🔖 License
+
+This project is licensed under the MIT License. See ` MIT LICENSE` file for details.
+
+
+✅ Conclusion : 
+
+This project demonstrates how to build and verify a basic CMOS XOR gate in LTspice using fundamental CMOS principles. It serves as a foundational example for understanding digital logic gates in analog simulation tools.
+
