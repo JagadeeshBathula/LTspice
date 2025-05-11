@@ -18,6 +18,10 @@ This guide explains how to design and simulate a CMOS XOR gate at the transistor
 
 ![Image](https://github.com/user-attachments/assets/77ab6f63-d8c0-4c03-9017-0d0443a2ba93)
 
+### Schematic
+
+![Image](https://github.com/user-attachments/assets/1df950a6-65cb-49e0-b2a4-2e299624a13d)
+
 🛠️ Prerequisites
 
 LTspice installed (e.g., LTspice XVII)
