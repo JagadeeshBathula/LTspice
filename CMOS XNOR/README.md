@@ -6,6 +6,8 @@ Design a 2-input XNOR gate using CMOS transistors (PMOS and NMOS) in LTspice and
 
 ## Circuit
 
+![Image](https://github.com/user-attachments/assets/87779fad-7a6a-415d-afec-33759781b825)
+
 ✅ Step-by-Step Guide
 
 🟩 Step 1: Understand the XNOR Logic
