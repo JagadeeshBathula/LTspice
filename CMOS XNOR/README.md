@@ -67,6 +67,8 @@ check the connections with the schematic
 
 ## Schematic Diagram
 
+![Image](https://github.com/user-attachments/assets/5d2d29d7-bf0f-4791-8d33-2e246edf971b)
+
 
 
 
