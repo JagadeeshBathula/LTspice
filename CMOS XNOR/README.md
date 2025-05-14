@@ -96,7 +96,7 @@ Place another voltage source
 
 Set it to DC = 2V
 
-Label it VDD and connect it to PMOS drains.
+Label it VDD and connect it to PMOS source.
 
 🟩 Step 6: Ground the Circuit
 
@@ -137,11 +137,16 @@ Check that XNOR output is:
 
 ## Truth Table
 
-A	B	XNOR
-0	0	1
-0	1	0
-1	0	0
-1	1	1
+| A |	B |	XNOR_Out |
+|---|---|----------|
+| 0 |	0 |    	1    |
+| 0 |	1 |   	0    |
+| 1 |	0 |   	0    |
+| 1 |	1 |   	1    |
+
+## Output Waveform
+
+![Image](https://github.com/user-attachments/assets/d1bb0fb6-57fb-4347-9662-619a72ed99d5)
 
 🧠 Tips
 Always cross-check your connections: Source to VDD (PMOS), Source to GND (NMOS)
