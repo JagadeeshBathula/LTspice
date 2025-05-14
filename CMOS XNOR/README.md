@@ -151,6 +151,32 @@ Check that XNOR output is:
 🧠 Tips
 Always cross-check your connections: Source to VDD (PMOS), Source to GND (NMOS)
 
-You can simplify debugging by simulating XOR and NOT separately first.
 
 To avoid manual design, you can also write a behavioral XNOR using a voltage-controlled source:
+
+📁 Project Files
+
+`xnor.asy` — LTspice schematic
+
+README.md — Project overview and instructions
+
+CONTACT ME :
+
+LinkedIn : http://www.linkedin.com/in/jagadeesh-bathula-246aba300
+
+Mail : jagadeeshbattula0@gmail.com 
+
+## 📚 References
+
+- [CMOS Logic Gate Design Basics](https://en.wikipedia.org/wiki/CMOS)
+- [LTspice User Guide](https://www.analog.com/media/en/simulation-models/spice-models/LTspiceGettingStartedGuide.pdf)
+
+## 🔖 License
+
+This project is licensed under the MIT License. See ` MIT LICENSE` file for details.
+
+
+✅ Conclusion : 
+
+This project demonstrates how to build and verify a basic CMOS XNOR gate in LTspice using fundamental CMOS principles. It serves as a foundational example for understanding digital logic gates in analog simulation tools.
+
