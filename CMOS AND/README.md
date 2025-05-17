@@ -108,7 +108,7 @@ You should see output is high only when both inputs are high.
 
 ## 🔖 License
 
-This project is licensed under the MIT License. See `LICENSE` file for details.
+This project is licensed under the MIT License. See `MIT LICENSE` file for details.
 
 ### Contact me 
 
