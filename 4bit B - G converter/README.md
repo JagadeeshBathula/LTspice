@@ -76,6 +76,7 @@ file > New schematic
 ( components press (p) )
 
 1: 3 XOR gates
+
 2: Volage sources 
 
  Connect the circuit as per logic expression (circuit diagram above provided)
