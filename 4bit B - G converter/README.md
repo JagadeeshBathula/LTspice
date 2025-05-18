@@ -228,7 +228,8 @@ While more focused on analog/digital circuits, provides foundational logic gate 
 Link : https://books.google.co.in/books/about/Microelectronic_Circuits.html?id=7YkzngEACAAJ&redir_esc=y
 
 📁 Project Files
-4bit Binary to Gray.asc — LTspice schematic
+`4bit Binary to Gray code.asc` — LTspice schematic
+
 
 README.md — Project overview and instructions
 
