@@ -55,6 +55,8 @@ G0 = B1 ⊕ B0
 
 🔧 Logic Circuit Design ( on paper explanation )
 
+![Image](https://github.com/user-attachments/assets/cdaf7241-d978-4007-806d-a18546f5b70f)
+
 Each output bit is derived as:
 
 G3 = B3 (direct connection)
