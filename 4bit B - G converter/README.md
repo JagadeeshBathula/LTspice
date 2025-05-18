@@ -130,7 +130,7 @@ file > New schematic
 
 ### Output Waveform
 
-
+![Image](https://github.com/user-attachments/assets/1f635ba6-079d-42da-ae29-f1c4f162f349)
  
 
 ### 📌 Key Characteristics
