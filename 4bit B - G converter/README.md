@@ -120,7 +120,7 @@ file > New schematic
 
  pulse_B1(0 2 4 0.001 0.001 4 8)
 
- pulse_B1(0 2 2 0.001 0.001 2 4)
+ pulse_B0(0 2 2 0.001 0.001 2 4)
 
 
  => Add trans 
