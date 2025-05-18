@@ -1,5 +1,7 @@
 # Binary To Gray code 
 
+### 4bit Binary - Gray code
+
 A 4-bit Binary to Gray Code Converter is a digital circuit or logic implementation that converts a standard 4-bit binary number into its equivalent Gray code. Gray code is a binary numeral system in which two successive values differ in only one bit (also called unit distance code).
 
 ### 🔷 What is Gray Code?
