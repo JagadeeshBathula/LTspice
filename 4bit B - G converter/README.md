@@ -127,6 +127,10 @@ file > New schematic
 | 1101   | 1011  |
 | 1110   | 1001  |
 | 1111   | 1000  |
+
+### Output Waveform
+
+
  
 
 ### 📌 Key Characteristics
