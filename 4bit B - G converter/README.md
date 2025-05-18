@@ -31,28 +31,7 @@ G0 = B1 ⊕ B0
 (⊕ represents the XOR operation)
 
 
-🔽 Truth Table:
 
-### 4-bit Binary to Gray Code Truth Table
-
-| Binary | Gray  |
-|--------|-------|
-| 0000   | 0000  |
-| 0001   | 0001  |
-| 0010   | 0011  |
-| 0011   | 0010  |
-| 0100   | 0110  |
-| 0101   | 0111  |
-| 0110   | 0101  |
-| 0111   | 0100  |
-| 1000   | 1100  |
-| 1001   | 1101  |
-| 1010   | 1111  |
-| 1011   | 1110  |
-| 1100   | 1010  |
-| 1101   | 1011  |
-| 1110   | 1001  |
-| 1111   | 1000  |
 
 🔧 Logic Circuit Design ( on paper explanation )
 
@@ -76,6 +55,78 @@ This requires:
 
 ![Image](https://github.com/user-attachments/assets/860a6a3d-3261-49e0-bdc8-a6e4ad3e23d4)
 
+## Step by step Design in LTspice 
+
+Understand the logic expression 
+
+G3 = B3 (direct connection)
+
+G2 = B3 ⊕ B2
+
+G1 = B2 ⊕ B1
+
+G0 = B1 ⊕ B0
+
+=> Open new schematic
+
+file > New schematic
+
+=> Place the components
+
+( components press (p) )
+
+1: 3 XOR gates
+2: Volage sources 
+
+ Connect the circuit as per logic expression (circuit diagram above provided)
+
+ connect the volgate source 
+
+ => Add pluse 
+
+ pulse _v ( 2 Dc )
+
+ pulse_B3(0 2 16 0.001 0.001 16 32)
+
+  pulse_B2(0 2 8 0.001 0.001 8 16)
+
+ pulse_B1(0 2 4 0.001 0.001 4 8)
+
+ pulse_B1(0 2 2 0.001 0.001 2 4)
+
+ Label the outputs as G3 G2 G1 G0
+
+ => Add trans 
+
+  trans 32
+
+  => Run simulation 
+
+   Alt R or ( running icon on top)
+
+   🔽 Truth Table:
+
+### 4-bit Binary to Gray Code Truth Table
+
+| Binary | Gray  |
+|--------|-------|
+| 0000   | 0000  |
+| 0001   | 0001  |
+| 0010   | 0011  |
+| 0011   | 0010  |
+| 0100   | 0110  |
+| 0101   | 0111  |
+| 0110   | 0101  |
+| 0111   | 0100  |
+| 1000   | 1100  |
+| 1001   | 1101  |
+| 1010   | 1111  |
+| 1011   | 1110  |
+| 1100   | 1010  |
+| 1101   | 1011  |
+| 1110   | 1001  |
+| 1111   | 1000  |
+ 
 
 ### 📌 Key Characteristics
 
