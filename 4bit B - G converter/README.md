@@ -30,6 +30,7 @@ G0 = B1 ⊕ B0
 
 (⊕ represents the XOR operation)
 
+
 🔽 Truth Table:
 
 ### 4-bit Binary to Gray Code Truth Table
@@ -70,6 +71,10 @@ G0 = B1 ⊕ B0
 This requires:
 
 3 XOR gates
+
+## Circuit Design
+
+![Image](https://github.com/user-attachments/assets/860a6a3d-3261-49e0-bdc8-a6e4ad3e23d4)
 
 
 ### 📌 Key Characteristics
