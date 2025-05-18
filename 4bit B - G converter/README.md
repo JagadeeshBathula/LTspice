@@ -81,7 +81,34 @@ file > New schematic
 
  Connect the circuit as per logic expression (circuit diagram above provided)
 
- connect the volgate source 
+ Such that 
+
+ Connect B3 to the Buffer Gate 
+
+ Connect B3 to the input of XOR1 Gate 
+
+ Connect B2 to the input of XOR1 Gate
+
+ Connect B2 to the input of XOR2 Gate
+
+ Connect B1 to the input of XOR2 Gate
+
+ Connect B1 to the input of XOR3 Gate
+
+ Connect B0 to the input of XOR3 Gate
+
+ Connect G3 to the output of Buffer Gate
+
+ Connect G2 to the output of XOR1 Gate
+
+ Connect G1 to the output of XOR2 Gate
+
+ Connect G0 to the output of XOR3 Gate
+
+ connect the volgate source
+
+  
+
 
  => Add pluse 
 
@@ -95,7 +122,6 @@ file > New schematic
 
  pulse_B1(0 2 2 0.001 0.001 2 4)
 
- Label the outputs as G3 G2 G1 G0
 
  => Add trans 
 
