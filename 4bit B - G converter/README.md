@@ -200,3 +200,32 @@ Digital Communication: To minimize bit error rate during serial transmission.
 Finite State Machines: Reduce glitches in state transitions.
 
 Memory Address Decoding: Helps in reducing address decoding glitches.
+
+### 📚 Textbook References
+
+1 : M. Morris Mano, Digital Design, 5th Edition
+
+Chapter on Combinational Logic Circuits
+
+Binary to Gray and Gray to Binary code conversions
+
+link : https://archive.org/details/digital-design-5th-edition-m-morris-mano-and-michael-d-ciletti
+
+ISBN: 978-0132774208
+
+2 : Roth & Kinney, Fundamentals of Logic Design, 7th Edition
+
+Covers various coding schemes including Gray Code
+
+Examples of truth tables and XOR-based implementation
+
+Link : https://books.google.co.in/books?id=TJkZngEACAAJ&source=gbs_book_other_versions_r&redir_esc=y
+
+3 : Sedra & Smith, Microelectronic Circuits, 7th Edition
+
+While more focused on analog/digital circuits, provides foundational logic gate behavior used in simulation
+
+Link : https://books.google.co.in/books/about/Microelectronic_Circuits.html?id=7YkzngEACAAJ&redir_esc=y
+
+
+
