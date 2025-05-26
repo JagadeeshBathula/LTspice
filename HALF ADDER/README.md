@@ -87,6 +87,15 @@ Add .tran 8
 
 Click Run → View Sum and Carry waveforms.
 
+## 🔢 Truth Table: Half Adder
+
+| Input A | Input B | Sum (A ⊕ B) | Carry (A · B) |
+|---------|---------|--------------|----------------|
+|    0    |    0    |      0       |       0        |
+|    0    |    1    |      1       |       0        |
+|    1    |    0    |      1       |       0        |
+|    1    |    1    |      0       |       1        |
+
 ### 🧩 Key Features
 
 ✅ Simple, intuitive design using behavioral logic
