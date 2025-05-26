@@ -167,6 +167,20 @@ Whether you're a student, engineer, or hobbyist, this simulation offers a hands-
 
 This project is licensed under the [MIT License](LICENSE).
 
+📁 Project Files
+
+`HALF ADDER.asc` — LTspice schematic
+
+
+README.md — Project overview and instructions
+
+CONTACT ME :
+
+LinkedIn : http://www.linkedin.com/in/jagadeesh-bathula-246aba300
+
+Mail : jagadeeshbattula0@gmail.com 
+
+
 
 
 
