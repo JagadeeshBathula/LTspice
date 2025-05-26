@@ -96,6 +96,10 @@ Click Run → View Sum and Carry waveforms.
 |    1    |    0    |      1       |       0        |
 |    1    |    1    |      0       |       1        |
 
+### Output Waveform
+
+![Image](https://github.com/user-attachments/assets/831136d3-d9b4-4442-b7bd-a19fb25ce6e4)
+
 ### 🧩 Key Features
 
 ✅ Simple, intuitive design using behavioral logic
