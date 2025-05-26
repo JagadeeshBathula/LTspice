@@ -75,6 +75,10 @@ Connect BV sources to get Sum and Carry.
 
 Ground all appropriate points.
 
+### Circuit 
+
+![Image](https://github.com/user-attachments/assets/07a41c4d-782b-4ea1-856f-f5f893cfe182)
+
 6. Run Simulation
 
 Add .tran 8
