@@ -31,7 +31,7 @@ Press F2 → Select Voltage for input signals.
 Press F2 → Add BV (Behavioral Voltage Source) for logic.
 
 3. Add Input Voltages
-4. 
+ 
 Place two voltage sources V1 and V2 to act as input A and B.
 
 Set them as pulse generators for simulation.
