@@ -8,6 +8,10 @@ Sum (A ⊕ B) → XOR
 
 Carry (A · B) → AND
 
+### Design explanation
+
+![Image](https://github.com/user-attachments/assets/f6a7cee3-c232-4dac-ae2b-5eab6a03641b)
+
 ### Step-by-Step Design in LTspice
 
 1. Open LTspice
