@@ -101,4 +101,8 @@ Plot Sum and Cout vs time.
 
 Compare waveform with full adder truth table.
 
+## output Waveform
+
+![Image](https://github.com/user-attachments/assets/de618a57-7b62-4319-a1cf-fd7e272f90ce)
+
 
