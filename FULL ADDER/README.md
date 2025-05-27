@@ -80,6 +80,11 @@ Connect xor1_out and Cin to AND2 → output: and2_out
 
 Connect and1_out and and2_out to OR → output: Cout
 
+## circuit Design
+
+![Image](https://github.com/user-attachments/assets/6dd023c9-e1ea-458b-abfd-bae41284ab5d)
+
+
 🧪 Step 4: Add Simulation Command
 
 Use a transient analysis command:
