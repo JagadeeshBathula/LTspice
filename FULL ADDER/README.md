@@ -103,7 +103,8 @@ Compare waveform with full adder truth table.
 
 ## output Waveform
 
-![Image](https://github.com/user-attachments/assets/bafbf0ea-9446-437d-b673-443ac59acbbc)
+![Image](https://github.com/user-attachments/assets/0bae8e56-fdf4-412d-98f9-994d63d1a330)
+
 
 # FULL ADDER USING HALF ADDER
 
