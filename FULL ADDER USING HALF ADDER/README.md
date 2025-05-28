@@ -16,6 +16,8 @@ Second Half Adder: Adds Sum1 and Cin → produces Sum = Sum1 ⊕ Cin, Carry2 = S
 
 Final Cout = Carry1 + Carry2
 
+![Image](https://github.com/user-attachments/assets/1d188a89-e0b9-4cae-884a-437f8e7801a5)
+
 ## 🛠 Step-by-Step LTspice Design
 
 ### Step 1: Design Basic Gates
