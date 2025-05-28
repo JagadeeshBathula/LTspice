@@ -154,7 +154,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 📁 Project Files
 
-
+`FA BY HA.asc` LTspice schematic
 
 README.md — Project overview and instructions
 
