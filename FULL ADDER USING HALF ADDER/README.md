@@ -144,5 +144,23 @@ Feel free to fork, modify, or build on this project. Contributions and suggestio
 
 If you found this useful or have suggestions, feel free to reach out or connect with me on LinkedIn – I’d love to hear your feedback or collaborate on similar projects!
 
+LinkedIn : http://www.linkedin.com/in/jagadeesh-bathula-246aba300
+
+Mail : jagadeeshbattula0@gmail.com 
+
+## 🪪 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+📁 Project Files
+
+
+
+README.md — Project overview and instructions
+
+
+
+
+
 
 
