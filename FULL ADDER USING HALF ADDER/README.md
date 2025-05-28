@@ -110,3 +110,7 @@ plot V(A) V(B) V(Cin) V(SUM) V(Cout)
 .endc
 
 .end
+
+# OUTPUT WAVEFORM
+
+![Image](https://github.com/user-attachments/assets/5c0fc2fc-20e2-48f8-b895-3005b55c019e)
