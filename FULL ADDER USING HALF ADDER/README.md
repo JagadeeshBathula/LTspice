@@ -113,6 +113,20 @@ plot V(A) V(B) V(Cin) V(SUM) V(Cout)
 
 .end
 
+## Full Adder Truth Table
+
+| A | B | Cin | Sum | Cout |
+|---|---|-----|-----|------|
+| 0 | 0 |  0  |  0  |  0   |
+| 0 | 0 |  1  |  1  |  0   |
+| 0 | 1 |  0  |  1  |  0   |
+| 0 | 1 |  1  |  0  |  1   |
+| 1 | 0 |  0  |  1  |  0   |
+| 1 | 0 |  1  |  0  |  1   |
+| 1 | 1 |  0  |  0  |  1   |
+| 1 | 1 |  1  |  1  |  1   |
+
+
 # OUTPUT WAVEFORM
 
 ![Image](https://github.com/user-attachments/assets/5c0fc2fc-20e2-48f8-b895-3005b55c019e)
