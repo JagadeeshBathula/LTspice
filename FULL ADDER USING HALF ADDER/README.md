@@ -100,6 +100,11 @@ XFA A B Cin SUM Cout FULL_ADDER
 
 run
 
+## CIRCUIT DESIGN
+
+![Image](https://github.com/user-attachments/assets/a643585a-d78d-4a2e-bd42-6f41d7e49343)
+
+
 plot V(A) V(B) V(Cin) V(SUM) V(Cout)
 
 .endc
