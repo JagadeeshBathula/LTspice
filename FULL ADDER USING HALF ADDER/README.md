@@ -118,9 +118,31 @@ plot V(A) V(B) V(Cin) V(SUM) V(Cout)
 ![Image](https://github.com/user-attachments/assets/5c0fc2fc-20e2-48f8-b895-3005b55c019e)
 
 
-##💡 Conclusion:
+##📚 References
 
-Designing a Full Adder using two Half Adders in LTspice is a great way to bridge theoretical digital logic with practical circuit simulation. This step-by-step approach reinforces core logic gate concepts and showcases how modular subcircuits can simplify complex designs. LTspice proves to be a powerful tool for validating digital designs at both behavioral and transistor levels.
+Digital Design – M. Morris Mano
 
-🔧 Whether you're a student, a VLSI enthusiast, or a digital design engineer, hands-on simulation like this builds a deeper understanding of circuit behavior and design flow.
+A foundational textbook that explains combinational circuits, logic gates, and adder circuits in detail.
+
+LTspice Documentation – Analog Devices
+
+https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html
+
+Official documentation and download page for LTspice.
+
+CMOS Digital Logic Design Tutorials
+
+Various online resources for CMOS-based logic gate design (e.g., All About Circuits, Electronics Tutorials).
+
+##✅ Conclusion
+
+This project demonstrates how a Full Adder can be constructed using two Half Adders in LTspice. By breaking down the logic into reusable components and simulating them, we gain practical insights into digital logic design and circuit behavior. It’s a great example of modular design and verification using simulation tools.
+
+Feel free to fork, modify, or build on this project. Contributions and suggestions are always welcome!
+
+🔗 Connect
+
+If you found this useful or have suggestions, feel free to reach out or connect with me on LinkedIn – I’d love to hear your feedback or collaborate on similar projects!
+
+
 
