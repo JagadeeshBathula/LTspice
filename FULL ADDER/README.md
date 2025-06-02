@@ -115,6 +115,36 @@ Compare waveform with full adder truth table.
 
 Designing a full adder in LTspice using logic gates provides a clear and effective way to understand and simulate digital arithmetic circuits. By implementing the full adder with basic gates—XOR, AND, and OR—we can directly model the logical expressions for Sum and Carry-out (Cout). Using PULSE voltage sources, we systematically apply all possible input combinations of A, B, and Cin to verify the circuit’s functionality over time. Additionally, implementing the full adder using two half adders demonstrates modular design, where smaller building blocks are combined to form more complex systems. LTspice's transient simulation and built-in digital components make it a powerful tool for verifying digital logic behavior before physical implementation. This gate-level simulation approach serves as a strong foundation for further exploration in VLSI, digital design, and logic verification.
 
+## 📚 References
+
+- [LTspice Official Download Page – Analog Devices](https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html)
+  
+- [Digital Design by M. Morris Mano – Logic Gate Theory](https://www.amazon.com/Digital-Design-M-Morris-Mano/dp/0131989243)
+  
+- [Wikipedia – Half Adder](https://en.wikipedia.org/wiki/Adder_(electronics)#Half_adder)
+  
+- [All About Circuits – Half Adder Explanation](https://www.allaboutcircuits.com/textbook/digital/chpt-8/half-adders/)
+  
+- [LTspice Help Documentation – Behavioral Sources](http://ltwiki.org/?title=LTspiceHelp:Behavioral_Source)
+  
+
+---
+
+## 🪪 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+📁 Project Files
+
+`FULL ADDER.asc` — LTspice schematic
+
+
+README.md — Project overview and instructions
+
+CONTACT ME :
+
+
+
 
 
 
