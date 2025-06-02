@@ -88,7 +88,7 @@ Connect and1_out and and2_out to OR → output: Cout
 
 ## circuit Design
 
-![Image](https://github.com/user-attachments/assets/6dd023c9-e1ea-458b-abfd-bae41284ab5d)
+![Image](https://github.com/user-attachments/assets/29e29636-504f-4779-9591-175a82aad594)
 
 
 🧪 Step 4: Add Simulation Command
