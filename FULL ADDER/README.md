@@ -2,6 +2,11 @@
 
 To design a full adder in LTspice using only logic gates, we break the circuit into its basic logic expressions: Sum = A ⊕ B ⊕ Cin and Cout = (A·B) + (Cin·(A⊕B)). In LTspice, we use built-in digital logic gate components—XOR, AND, and OR—from the "Digital" component library. First, we generate input signals A, B, and Cin using PULSE voltage sources to cycle through all possible input combinations over time. The circuit is constructed by first computing A ⊕ B using an XOR gate, then XORing that result with Cin to get the Sum. For the carry-out (Cout), two AND gates are used to compute A·B and Cin·(A⊕B), and their outputs are combined using an OR gate. A transient simulation is run using the .tran directive, and the outputs Sum and Cout are plotted over time to verify correct operation against the full adder truth table. This gate-level approach provides a clear, modular, and simulation-friendly method for designing and testing a full adder in LTspice without dealing with transistor-level complexity.
 
+## HAND NOTES
+
+![Image](https://github.com/user-attachments/assets/018099cc-8870-47cc-af2b-a4b9ab3def8b)
+
+
 ### ✅ Goal
 
 Design a 1-bit Full Adder using only:
