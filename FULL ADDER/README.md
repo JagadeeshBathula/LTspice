@@ -6,6 +6,7 @@ To design a full adder in LTspice using only logic gates, we break the circuit i
 
 ![Image](https://github.com/user-attachments/assets/018099cc-8870-47cc-af2b-a4b9ab3def8b)
 
+![Image](https://github.com/user-attachments/assets/e965decd-45d0-4289-b54b-da052e91be93)
 
 ### ✅ Goal
 
