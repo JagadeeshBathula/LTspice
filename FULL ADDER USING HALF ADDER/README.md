@@ -106,6 +106,10 @@ run
 
 ![Image](https://github.com/user-attachments/assets/a643585a-d78d-4a2e-bd42-6f41d7e49343)
 
+## BLOCK DIAGRAM
+
+![Image](https://github.com/user-attachments/assets/98b949e3-5bf3-49ef-99ab-1a5831069a23)
+
 
 plot V(A) V(B) V(Cin) V(SUM) V(Cout)
 
